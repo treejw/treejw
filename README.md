@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>
   <a href="https://blog.naver.com/mjw4260/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mjw4260@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mjw4260@naver.com" target="_blank"><img src="https://img.shields.io/badge/mjw4260@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br>
