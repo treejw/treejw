@@ -17,7 +17,9 @@
    > RDB Table 설계 및 join 활용하여 데이터 조회 가능
 -  ![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![AWS DocumentDB](http://img.shields.io/badge/AWS-DocumentDB-232F3E?style=flat) ![AWS DynamoDB](http://img.shields.io/badge/AWS-DynamoDB-4053D6?style=flat) 
    > Document 단위로 데이터 저장 및 관리 가능
-  
+
+<br>
+
 ### Infra & Cloud
 #### ![Docker](http://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white) 
    > 운영 및 개발 환경 정의, 배포에 활용 가능
@@ -28,15 +30,21 @@
    > 
    > 실제 배포 및 사용을 위한 전체 시스템 구축 가능
 
+<br>
 
 ### Front-End
 #### ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) 
 - ![Jquery](http://img.shields.io/badge/Jquery-0769AD?style=flat&logo=Jquery&logoColor=white) ![Ajax](http://img.shields.io/badge/Ajax-007396?style=flat&logo=Ajax&logoColor=white)
    > jQuery, Ajax를 활용하여 DEMO Web UI 제작 가능
 
+<br>
+
 ### Tool
 #### ![Git/Github](http://img.shields.io/badge/Github/Git-181717?style=flat&logo=Github&logoColor=white) 
    > 협업 및 프로젝트 관리를 위해 Git/Github 사용
 #### ![Slack](http://img.shields.io/badge/Github/Slack-4A154B?style=flat&logo=Slack&logoColor=white) ![Notion](http://img.shields.io/badge/Github/Notion-000000?style=flat&logo=Notion&logoColor=white) ![Trello](http://img.shields.io/badge/Github/Trello-0052CC?style=flat&logo=Trello&logoColor=white) 
    > 협업 및 기록을 위해 Slack, Notion, Trello 사용
+
+
+<!-- https://simpleicons.org/ -->
 
