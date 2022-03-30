@@ -34,7 +34,7 @@
          <img src="http://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
       </td>
       <td>
-         <img src="http://img.shields.io/badge/Github/Trello-0052CC?style=flat&logo=Trello&logoColor=white">
+         <img src="http://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white">
       </td>
    </tr>
 </table>
