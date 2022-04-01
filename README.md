@@ -28,7 +28,7 @@
          <img src="http://img.shields.io/badge/Github/Git-181717?style=flat&logo=Github&logoColor=white">
       </td>
       <td>
-         <img src="http://img.shields.io/badge/Github/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+         <img src="http://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
       </td>
       <td>
          <img src="http://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
