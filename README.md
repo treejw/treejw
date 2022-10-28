@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Notion](http://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&link=https://treejw.notion.site/treejw/treejw-b18ee6f2efce465593359f778837deff)](https://treejw.notion.site/treejw/treejw-b18ee6f2efce465593359f778837deff) [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/%EC%A7%80%EC%9B%90-%EB%AC%B8-31061b22b/)](https://www.linkedin.com/in/%EC%A7%80%EC%9B%90-%EB%AC%B8-31061b22b/)  [![Blog](http://img.shields.io/badge/-Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white&link=https://blog.naver.com/mjw4260/)](https://blog.naver.com/mjw4260/) ![EMAIL](http://img.shields.io/badge/-mjw426@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)
-
+[![Notion](http://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&link=https://treejw.notion.site/treejw/treejw-b18ee6f2efce465593359f778837deff)](https://treejw.notion.site/treejw/treejw-b18ee6f2efce465593359f778837deff) [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/%EC%A7%80%EC%9B%90-%EB%AC%B8-31061b22b/)](https://www.linkedin.com/in/%EC%A7%80%EC%9B%90-%EB%AC%B8-31061b22b/)
 
 
 <!-- ## 📌 Skills 💻
